@@ -3,3 +3,9 @@ I've created interactive maps that illustrate county-level US Presidential elect
 
 Data Reference: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VOQCHQ
 
+![election_2020](https://github.com/jaenaldo/project1/assets/72944189/c0bed840-2f61-449f-8aab-c5c1ce61119d)
+![election_2016](https://github.com/jaenaldo/project1/assets/72944189/58943751-116c-402f-8c14-fb977bd34f16)
+![election_2012](https://github.com/jaenaldo/project1/assets/72944189/ea2cf839-e8a1-4f18-a968-194c2c898563)
+![election_2008](https://github.com/jaenaldo/project1/assets/72944189/e02829a6-ee95-4859-900d-7771212c5e48)
+![election_2004](https://github.com/jaenaldo/project1/assets/72944189/de4ce142-e9ae-4ded-b235-399e2c3787ea)
+![election_2000](https://github.com/jaenaldo/project1/assets/72944189/84d9ea09-1ad0-4b58-b707-c8a079713428)
