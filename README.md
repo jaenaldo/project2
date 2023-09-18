@@ -3,9 +3,10 @@ I've created interactive maps that illustrate county-level US Presidential elect
 
 Data Reference: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VOQCHQ
 
-![election_2020](https://github.com/jaenaldo/project1/assets/72944189/c0bed840-2f61-449f-8aab-c5c1ce61119d)
-![election_2016](https://github.com/jaenaldo/project1/assets/72944189/58943751-116c-402f-8c14-fb977bd34f16)
-![election_2012](https://github.com/jaenaldo/project1/assets/72944189/ea2cf839-e8a1-4f18-a968-194c2c898563)
-![election_2008](https://github.com/jaenaldo/project1/assets/72944189/e02829a6-ee95-4859-900d-7771212c5e48)
-![election_2004](https://github.com/jaenaldo/project1/assets/72944189/de4ce142-e9ae-4ded-b235-399e2c3787ea)
-![election_2000](https://github.com/jaenaldo/project1/assets/72944189/84d9ea09-1ad0-4b58-b707-c8a079713428)
+![election_2000](https://github.com/jaenaldo/project1/assets/72944189/a3e8eb2c-10f0-42a0-9d7d-a58353445067)
+![election_2004](https://github.com/jaenaldo/project1/assets/72944189/082da5f7-530c-4732-8ca6-0762a444600d)
+![election_2008](https://github.com/jaenaldo/project1/assets/72944189/dc3b030a-5bf3-44a6-bf00-c03d9bbdf587)
+![election_2012](https://github.com/jaenaldo/project1/assets/72944189/d2e0db7d-a547-41f1-9e99-408d96e5db2b)
+![election_2016](https://github.com/jaenaldo/project1/assets/72944189/99c6997d-0337-4594-bc0a-5f131a8fd403)
+![election_2020](https://github.com/jaenaldo/project1/assets/72944189/836c3950-bb1a-4cb5-95c4-767e74229612)
+
